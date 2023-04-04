@@ -1,6 +1,3 @@
-# User-Behavior-Analysis-Project-with-Google-Analytics-Customer-Revenue-Prediction-Dataset
-
-
 # User Behavior Analysis Project with Google Analytics Customer Revenue Prediction Dataset :chart_with_upwards_trend:
 
 This project aims to conduct a user behavior analysis using the "Google Analytics Customer Revenue Prediction" dataset. The dataset can be found at the following link: :link: [Google Analytics Customer Revenue Prediction Dataset](https://www.kaggle.com/c/ga-customer-revenue-prediction/data).
